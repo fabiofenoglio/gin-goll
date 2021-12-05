@@ -1,5 +1,8 @@
 # gin-goll
 
+[![Documentation](https://godoc.org/github.com/fabiofenoglio/gin-goll?status.svg)](http://godoc.org/github.com/fabiofenoglio/gin-goll)
+[![Go Report Card](https://goreportcard.com/badge/github.com/fabiofenoglio/gin-goll)](https://goreportcard.com/report/github.com/fabiofenoglio/gin-goll)
+
 gin-goll is the middleware plugin for integrating a [Goll](https://github.com/fabiofenoglio/goll) load limiter in a Gin-gonic application.
 
 - [Installation](#installation)
